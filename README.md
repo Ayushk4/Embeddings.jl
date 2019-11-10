@@ -1,5 +1,5 @@
 # Embeddings
-
+ 
 
 [![Build Status](https://travis-ci.org/JuliaText/Embeddings.jl.svg?branch=master)](https://travis-ci.org/JuliaText/Embeddings.jl)
 [![CodeCov](https://codecov.io/gh/JuliaText/Embeddings.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/JuliaText/Embeddings.jl)
